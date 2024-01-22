@@ -4,7 +4,7 @@ This tool is designed to automatically change your IP address using the Tor proj
 # Installation Process 
 
 ```bash
-sudo apt-get install tor pip3 install requests[socks] or just run autoTor it will install everything
+sudo apt-get install tor pip3 install requests[socks]
 
 git clone https://github.com/FDX100/Auto_Tor_IP_changer.git
 
