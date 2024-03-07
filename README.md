@@ -8,7 +8,7 @@ sudo apt-get install tor pip3 install requests[socks]
 
 git clone https://github.com/Arxuishere/auto_ip_change
 
-cd Auto_Tor_IP_changer
+cd auto_ip_change
 ```
 ```Python
 python3 install.py
