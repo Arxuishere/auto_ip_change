@@ -5,7 +5,7 @@ if str(choice) =='Y' or str(choice)=='y':
 
     run('chmod 777 autoTOR.py')
     run('mkdir /usr/share/aut')
-    run('cp autoTOR.py /usr/share/aut/autoTOR.py')
+    run('cp aip.py /usr/share/aut/autoTOR.py')
 
     cmnd=(' #! /bin/sh \n exec python3 /usr/share/aut/autoTOR.py "$@"')
     with open('/usr/bin/aut','w')as file:
